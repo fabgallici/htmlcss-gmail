@@ -1,0 +1,61 @@
+body {
+  font-family: Times, sans-serif;
+  background-image: url("../img/gmail-bg-wood-theme.jpg");
+  background-size: cover;
+  width:65%;
+  margin: auto;
+}
+
+h1, h2, .powered, .messaggi {
+  color: white;
+  font-size: 25px;
+}
+
+#top-container {
+  height: 100px;
+}
+
+#logo-gmail {
+  margin-top: 20px;
+}
+h2 {
+  font-weight: normal;
+  margin-top: -13px;
+  margin-left: 100px;
+}
+
+.messaggi {
+  margin-top: 5px;
+}
+#cerchio-color {
+  background-color: #ECA336;
+  border-radius: 50%;
+}
+
+.riga-mail {
+  background-color: #D2D2D2;
+  border: 1px solid black;
+  height: 24px;
+  font-weight: 900;
+}
+.riga-mail:hover {
+  background-color: #FFFFFF;
+}
+.mail-text-color {
+  color: #949494;
+  font-weight: normal;
+}
+
+h1 {
+  display: inline;
+}
+
+.powered {
+  font-style: italic;
+  font-weight: 550;
+  font-size: initial;
+}
+
+footer {
+  text-align: center;
+}
