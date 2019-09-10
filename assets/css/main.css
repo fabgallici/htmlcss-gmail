@@ -20,8 +20,11 @@ h1, h2, .powered, .messaggi {
 }
 h2 {
   font-weight: normal;
+  display: inline;
+  /* aggiunto display e tolti margini
   margin-top: -13px;
   margin-left: 100px;
+  */
 }
 
 .messaggi {
